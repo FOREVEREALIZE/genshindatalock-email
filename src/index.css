@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+li {
+    @apply list-disc ml-6;
+}
